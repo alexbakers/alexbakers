@@ -12,7 +12,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alexbakers/alexbakers/output/snake.svg" alt="snek animation" />
+  <img src="https://raw.githubusercontent.com/callistachang/callistachang/output/snake.svg" alt="snek animation" />
 </div>
 
 ###
